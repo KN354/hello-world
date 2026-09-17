@@ -1,8 +1,2 @@
 # hello-world
-
-GHM My first repo
-
-
-
-Test feature A added
-
+GHM My first repo 
